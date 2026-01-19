@@ -39,6 +39,8 @@ The workbook simulates real-world analyst tasks such as summarising large datase
   * Gender-based profitability trends
 * Compared order quantity distribution across markets to highlight regional differences in customer behaviour.
 
+* <img width="691" height="388" alt="image" src="https://github.com/user-attachments/assets/21299a84-8733-45bb-bd1d-ce7d946ef850" />
+
 #### 2. Product Performance Categorisation (SWITCH Function)
 
 * Created a sales dataset for multiple English counties.
@@ -48,10 +50,14 @@ The workbook simulates real-world analyst tasks such as summarising large datase
   * **High**, **Medium**, or **Low** sales performers
 * Demonstrated logical functions and conditional classification for business reporting.
 
+* <img width="691" height="272" alt="image" src="https://github.com/user-attachments/assets/4fb57792-a500-4233-9ad3-ed58a41ce1b1" />
+
 #### 3. Data Visualisation
 
 * Explored Excel charting tools to visualise sales trends.
 * Transformed raw numerical data into clear, interpretable visuals to support decision-making.
+
+* <img width="691" height="416" alt="image" src="https://github.com/user-attachments/assets/c2e43679-ec3e-436c-918f-377630d83081" />
 
 ---
 
